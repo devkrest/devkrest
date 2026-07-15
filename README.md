@@ -67,15 +67,6 @@ Every solution we build is guided by a simple philosophy:
 - Build with security and performance in mind.
 - Create software that grows with your business.
 
----
-
-## 📂 Featured Repositories
-
-- ⭐ Coming Soon
-- ⭐ Coming Soon
-- ⭐ Coming Soon
-
----
 
 ## 🤝 Let's Connect
 
