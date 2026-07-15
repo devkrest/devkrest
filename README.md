@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devkrest/.github/main/profile/assets/banner.png" alt="Devkrest Banner" width="100%" />
+  <img src="assets/devkrest_banner.png" alt="Devkrest Banner" width="100%" />
 </p>
 
 <h1 align="center">Engineering Digital Excellence.</h1>
